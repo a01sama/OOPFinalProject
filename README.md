@@ -1,5 +1,4 @@
 # OOPFinalProject
-Built Ticket To Ride Game
 ------------------------------------------------------------------------
 This project is a version of the board game Ticket to Ride created in java. 
 ------------------------------------------------------------------------
