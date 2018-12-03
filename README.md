@@ -1,7 +1,7 @@
 # OOPFinalProject
 Built Ticket To Ride Game
 ------------------------------------------------------------------------
-This project is a version of the board game Laser Maze created in java. 
+This project is a version of the board game Ticket to Ride created in java. 
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Ticket to Ride
